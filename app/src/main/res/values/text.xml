@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--string name="nbm_facial_title">Prueba de vida y Captura facial.</string>
+    <string name="nbm_facial_title_short">Captura facial.</string>
+
+    <string name="nbm_facial_preview_title">Confirmación</string>
+    <string name="nbm_facial_preview_instructions">Al realizar la validación tomamos una fotografía que usaremos en nuestro proceso de validación, si deseas, puedes reintentarlo oprimiendo en Reintentar, de lo contrarío sólo oprime el boton para Continuar.</string>
+
+
+    <string name="nbm_facial_instructions">Para realizar la prueba de vida y la captura facial es necesario que enfoque la camara directamente en su rostros y evite moverse de manera bursca para un mejor enfoque.</string>
+    <string name="nbm_facial_instructions_list">Permanezca en un lugar iluminado.|Sostenga la camara en un angulo de 90 grados.</string>
+    <string name="nbm_facial_confirm_description">Nubarium Liveness</string>
+
+    <string name="nbm_facial_title_liveness">Prueba de vida y Captura facial</string>
+    <string name="nbm_facial_instructions_liveness">Para realizar la prueba de vida y la captura facial es necesario que enfoque la camara directamente en su rostros y evite moverse de manera bursca para un mejor enfoque.</string>
+    <string name="nbm_facial_instructions_list_liveness">Nubarium Liveness</string>
+    <string name="nbm_facial_confirm_description_liveness">Nubarium Liveness</string>
+
+    <string name="nbm_facial_btn_return">Regresart</string>
+    <string name="nbm_facial_btn_start">Iniciarr</string>
+    <string name="nbm_facial_btn_accept">Aceptar</string>
+    <string name="nbm_facial_btn_cancel">Cancelar</string>
+
+    <string name="nbm_facial_msg_approved">Aprovado.</string>
+    <string name="nbm_facial_msg_closer"> Acercate.</string>
+    <string name="nbm_facial_msg_get_away">Alejate.</string>
+    <string name="nbm_facial_msg_align_face">Coloca tu cabeza dentro del ovalo.</string>
+    <string name="nbm_facial_msg_look_center">Mira al frente.</string>
+    <string name="nbm_facial_msg_dont_move">No te muevas.</string>
+    <string name="nbm_facial_msg_multi_face">Solo un rostro.</string>
+    <string name="nbm_facial_msg_no_face">COLOQUE SU CARA DENTRO DEL AREA.</string>
+    <string name="nbm_facial_msg_face_outside">COLOQUE SU CARA EN EL AREA.</string>
+    <string name="nbm_facial_msg_face_small">ACERQUE SU CARA.</string>
+    <string name="nbm_facial_msg_recommendations_failed">Asegurate que te encuentras en un lugar iluminado y mirar de frente 1</string>
+
+    <string name="nbm_facial_url_help">https://pnsclothing.com/pages/faq</string>
+    <string name="nbm_facial_url_video">https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/720/Big_Buck_Bunny_720_10s_2MB.mp4</string>
+
+    <string name="nbm_btn_return">Regresar</string>
+    <string name="nbm_btn_accept">Aceptar</string>
+    <string name="nbm_btn_retry">Reintentarr</string-->
+</resources>

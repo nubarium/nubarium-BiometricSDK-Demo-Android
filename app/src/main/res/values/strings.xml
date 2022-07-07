@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="demo_text">
+        Esta es una aplicación de demostración de un proceso de registro y validación de persona, integrando una Prueba de Vida con Captura Facial y validación de Identificaciones, solo presiona <b>INICIAR PRUEBA</b> para verlo en acción.
+    </string>
+    <string name="app_name" translatable="false">Demo Biometricos</string>
+    <string name="username" translatable="false">YOURUSERNAME</string>
+    <string name="password" translatable="false">YOURPASSWORD</string>
+
+</resources>

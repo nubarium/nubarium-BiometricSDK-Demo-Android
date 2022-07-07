@@ -1,0 +1,2 @@
+rootProject.name='BiometricSDK-Demo-Android'
+include ':app'
